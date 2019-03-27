@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adriano Fantini / Personal site"
+title                    : "adrfantini@github.io"
 title_separator          : "-"
 name                     : &name "Adriano Fantini"
 description              : &description "personal site of Adriano Fantini"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Adriano Fantini"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Earth scientist at the <a style='color: black;' href='https://www.ictp.it/research/esp.aspx'>International Centre for Theoretical Physics - Earth System Section</a>"
   location         : "Trieste, Italy"
-  employer         : "ICTP Earth System Physics"
+  employer         : # "ICTP Earth System Physics"
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?hl=it&user=Jse-1NoAAAAJ"
   email            : "adr.fantini@gmail.com"
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
