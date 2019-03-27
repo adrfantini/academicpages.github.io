@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "adrfantini@github.io"
+title                    : "adrfantini.github.io"
 title_separator          : "-"
 name                     : &name "Adriano Fantini"
 description              : &description "personal site of Adriano Fantini"
