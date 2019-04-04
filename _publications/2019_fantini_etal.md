@@ -5,11 +5,11 @@ permalink: /publication/2019_fantini_etal
 excerpt: 'This paper describes the new GRidded Italian Precipitation Hourly Observations (GRIPHO) dataset.'
 date: 2019-12-31
 venue: 'in preparation'
-paperurl: 'https://adrfantini.github.io/files/2019_fantini_etal.pdf'
+paperurl: 'https://adrfantini.github.io/files/papers/2019_fantini_etal.pdf'
 citation: 'In preparation.'
 ---
 This paper describes the new GRidded Italian Precipitation Hourly Observations (GRIPHO) dataset.
 
-[Download paper here](https://adrfantini.github.io/files/2019_fantini_etal.pdf)
+[Download paper here](https://adrfantini.github.io/files/papers/2019_fantini_etal.pdf)
 
 Recommended citation: In preparation.
