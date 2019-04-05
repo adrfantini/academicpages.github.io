@@ -15,4 +15,4 @@ In this paper we analyse multiple daily precipitation statistics (with a particu
 
 Recommended citation: Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. [https://doi.org/10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)
 
-[Download .bib](https://citation-needed.springer.com/v2/references/10.1007/s00382-016-3453-4?format=bibtex&flavour=citation)
+Download .bib [here](https://citation-needed.springer.com/v2/references/10.1007/s00382-016-3453-4?format=bibtex&flavour=citation).
