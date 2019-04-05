@@ -6,13 +6,13 @@ excerpt: 'We analyse multiple daily precipitation statistics in an ensemble of E
 date: 2016-11-29
 venue: 'Climate Dynamics'
 paperurl: 'https://adrfantini.github.io/files/2016_fantini_etal.pdf'
-citation: 'Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. [https://doi.org/10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)'
+citation: 'Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. https://doi.org/10.1007/s00382-016-3453-4'
 ---
 
 In this paper we analyse multiple daily precipitation statistics (with a particular attention towards extremes) in a set of 9 EURO-CORDEX Regional Climate Models at two different spatial scales (~50 and 12km). For comparison, 9 regional high resolution observational dataset, covering most of Europe, are considered. The question of added value is thoroughly discussed.
 
-Download paper [here](https://adrfantini.github.io/files/2016_fantini_etal.pdf).
+DOI: [10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)
 
-Recommended citation: Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. [https://doi.org/10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)
+Download paper [here](https://adrfantini.github.io/files/2016_fantini_etal.pdf).
 
 Download .bib [here](https://citation-needed.springer.com/v2/references/10.1007/s00382-016-3453-4?format=bibtex&flavour=citation).
