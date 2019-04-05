@@ -2,20 +2,17 @@
 title: "Assessment of multiple daily precipitation statistics in ERA-Interim driven Med-CORDEX and EURO-CORDEX experiments against high resolution observations"
 collection: publications
 permalink: /publication/2016_fantini_etal
-excerpt: 'This is the excerpt'
-date: 2016-10-01
+excerpt: 'We analyse multiple daily precipitation statistics in an ensemble of EURO-CORDEX Regional Climate Models, comparing them with high resolution observations'
+date: 2016-11-29
 venue: 'Climate Dynamics'
 paperurl: 'https://adrfantini.github.io/files/2016_fantini_etal.pdf'
-citation: 'PUT DOI HERE? Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. [https://doi.org/10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+In this paper we analyse multiple daily precipitation statistics (with a particular attention towards extremes) in a set of 9 EURO-CORDEX Regional Climate Models at two different spatial scales (~50 and 12km). For comparison, 9 regional high resolution observational dataset, covering most of Europe, are considered. The question of added value is thoroughly discussed.
 
 [Download paper here](https://adrfantini.github.io/files/2016_fantini_etal.pdf)
 
-something something
+Recommended citation: Fantini, A., Raffaele, F., Torma, C. et al. Clim Dyn (2018) 51: 877. [https://doi.org/10.1007/s00382-016-3453-4](https://doi.org/10.1007/s00382-016-3453-4)
 
-DOI
-
-LaTeX .bib entry
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download .bib](https://citation-needed.springer.com/v2/references/10.1007/s00382-016-3453-4?format=bibtex&flavour=citation)
