@@ -6,7 +6,7 @@ excerpt: 'This is the final version of my PhD thesis'
 date: 2019-03-15
 venue: 'University of Trieste ArTS repository'
 paperurl: 'http://users.ictp.it/~afantini/PhD_thesis/PhD_thesis_final_15feb2019.pdf'
-citation: 'Fantini, A.; Climate change impact on flood hazard over Italy; PhD thesis University of Trieste, Italy (2019); https://arts.units.it/handle/11368/2939967'
+citation: 'Fantini, A.; Climate change impact on flood hazard over Italy; PhD thesis University of Trieste, Italy (2019); https://arts.units.it/handle/11368/2940009'
 ---
 
 This is the final version of my PhD thesis, the result of three years of hard work. This is the short abstract:
@@ -16,4 +16,4 @@ Floods are one of the most devastating natural disasters, with strong impacts on
 
 Download thesis [here](http://users.ictp.it/~afantini/PhD_thesis/PhD_thesis_final_15feb2019.pdf).
 
-See additional details on the University's [thesis page](https://arts.units.it/handle/11368/2939967) (in Italian).
+See additional details on the University's [thesis page](https://arts.units.it/handle/11368/2940009) (in Italian).
