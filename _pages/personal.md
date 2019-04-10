@@ -13,4 +13,5 @@ Living in Belluno for the most part of my youth left me with a constitutional an
 
 I like to get my hands dirty with building, fixing and (often) wrecking things: I maintain my car myself and greatly enjoy woodworking and electronics.
 
-I also love coding and messing with computers. In particular I have large experience with Linux, which I have been using since 2007. I recently built my own small home server, which runs on ArchLinux (my favourite distribution) and provides a Steam cache (my favourite modern game is Dota2, which I often play with friends), video and music streaming (with Plex) and cloud storage (with NextCloud) for my family. The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case around one large 20cm Noctua fan. Most of the time the fan is off, and the system uses natural convection for cooling.
+I also love coding and messing with computers. In particular I have large experience with Linux-based Operative Systems, which I have been using since 2007. I recently built my own low-power home server, which runs on ArchLinux; you can find more info [here](https://adrfantini.github.io/server/).
+I also enjoy video games: my favourite modern game is [Dota2](www.dota2.com), which I play with friends weekly.
