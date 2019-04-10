@@ -14,11 +14,11 @@ Adriano Fantini:
   #bio         : "What do you want, jewels? I am a very extravagant man."
   avatar      : "/images/profile.png"
   uri         : "https://adrfantini.github.io/"
-  email       : "adr.fantini@gmail.com"
+  email       : "adr.fantini+website@gmail.com"
   #links:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:adr.fantini@gmail.com"
+      #url: "mailto:adr.fantini+website@gmail.com"
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://adrfantini.github.io/"
