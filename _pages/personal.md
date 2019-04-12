@@ -9,7 +9,7 @@ author_profile: true
 
 I was born in Belluno, Italy in 1990, where I lived until I had to move in order to attend university. I now live in Trieste together with my girlfriend and our wonderful daughter, born in 2010.
 
-I like to get my hands dirty with building, fixing and (often) wrecking things: I maintain and repair my car myself and greatly enjoy woodworking and electronics.
+I like to get my hands dirty with building, fixing and (often) breaking things: I maintain and repair my car myself and greatly enjoy woodworking and electronics.
 
 I love coding and messing with computers. In particular I have large experience with Linux-based operative systems, which I have been using since 2007. I recently built my own low power home server, which runs on ArchLinux: you can find more info about it [here](https://adrfantini.github.io/server/).
 I also enjoy video games: my favourite modern game is [Dota2](www.dota2.com), which I often play (quite poorly) with friends.
