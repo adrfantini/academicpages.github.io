@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I was born in [Belluno](https://it.wikipedia.org/wiki/Belluno), Italy in 1990, where I lived until I had to move in order to attend university. I now live in [Trieste](https://it.wikipedia.org/wiki/Trieste) together with my girlfriend and our wonderful daughter, born in 2010.
+I was born in [Belluno](https://it.wikipedia.org/wiki/Belluno), Italy in 1990, where I lived until I had to move in order to frequent university. I now live in [Trieste](https://it.wikipedia.org/wiki/Trieste) together with my girlfriend and our wonderful daughter, born in 2010.
 
 I like to get my hands dirty with building, fixing and (often) breaking things: I maintain and repair my car myself and greatly enjoy woodworking and electronics.
 
