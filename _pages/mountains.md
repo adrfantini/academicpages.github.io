@@ -9,6 +9,8 @@ author_profile: true
 
 I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me, they are not only pretty images, but fond memories of great times.
 
+---
+
 The beautiful Belluno valley as seen from halfway up Mount Terne
 ![](/images/mountain/Belluno_valley.jpg)
 
@@ -47,3 +49,6 @@ The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the Ki
 
 A marmot!
 ![](/images/mountain/Marmot.jpg)
+
+---
+Copyright Adriano Fantini
