@@ -10,7 +10,7 @@ author_profile: true
 I recently built my own low-power home server, which runs on [ArchLinux](www.archlinux.org) (my favourite distribution) and provides cloud storage and streaming services for my family.
 The server houses a low power mini-ITX motherboard with a soldered Intel Apollo Lake J3455 4-core CPU.
 It has room for 4 standard 3.5" hard drives; currently it runs two 3TB data disks and one 1TB drive for OS backups and caches.
-The OS is hosted on a 500GB SSD.
+The OS is hosted on a 500GB M.2 SSD.
 
 Notable software:
 
@@ -22,8 +22,10 @@ Notable software:
 - [BTRFS](https://en.wikipedia.org/wiki/Btrfs) for data mirroring and protection;
 - A [Steam](https://store.steampowered.com) cache is currently my next upcoming improvement.
 
-The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case, around 23x23x25cm in size. One large 20cm Noctua fan takes care of the ventilation under high loads. Most of the time the fan is off and the system only uses natural convection for cooling, thanks to the large concealed opening in the top.
+![My small home-built server](/images/serverino.JPG){:height="360px" width="360px"}
 
-Power usage is 12W at idle and around 50W at load (usually when scrubbing the drives).
+The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case, around 22x22x25cm in size. This is a prototype which I plan to improve on in the next iteration.
 
-![My small home-built server](/images/server.JPG)
+One large 20cm Noctua fan takes care of the ventilation under high loads, drawing fresh air from filtered openings on the bottom and back. Most of the time the fan is off and the system only uses natural convection for cooling, thanks to the large slot opening in the top and free-flowing design.
+
+Power usage is 12W at idle and around 50W at load.
