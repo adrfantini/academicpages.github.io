@@ -51,4 +51,4 @@ A marmot!
 ![](/images/mountain/Marmot.jpg)
 
 ---
-Copyright Adriano Fantini
+Copyright © Adriano Fantini
