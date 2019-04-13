@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me, they are not only pretty images, but fond memories of great times.
+I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
 
 ---
 
@@ -32,7 +32,7 @@ Panorama from the gloriously placed Tissi hut, under rhe famous mount Civetta No
 The top of mount Terne, with the Gusela on the background. In winter...
 ![](/images/mountain/M_Terne_winter.JPG)
 
-...and in summer! (my brother is in this picture, too!)
+...and in summer! (my brother is somewhere in this picture, too!)
 ![](/images/mountain/M_Terne_summer.JPG)
 
 The San Martino plateau as seen from the top of the Fradusta
