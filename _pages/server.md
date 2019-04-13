@@ -22,6 +22,8 @@ Notable software:
 - [BTRFS](https://en.wikipedia.org/wiki/Btrfs) for data mirroring and protection;
 - A [Steam](https://store.steampowered.com) cache is currently my next upcoming improvement.
 
-The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case around one large 20cm Noctua fan whose speed is controlled by the temperature of the hard drives. Most of the time the fan is off and the system uses natural convection for cooling, thanks to the large opening in the top.
+The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case, around 23x23x25cm in size. One large 20cm Noctua fan takes care of the ventilation under high loads. Most of the time the fan is off and the system only uses natural convection for cooling, thanks to the large concealed opening in the top.
 
 Power usage is 12W at idle and around 50W at load (usually when scrubbing the drives).
+
+![My small home-built server](/images/server.JPG)
