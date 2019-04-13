@@ -22,10 +22,10 @@ The Cansiglio forest in a cold winter day
 ![](/images/mountain/Cansiglio_Forest.JPG)
 
 Lake Sorapiss with its incredible colour, from the via ferrata Vandelli
-![](/images/mountain/Lake_sorapiss.png)
+![](/images/mountain/Lake_sorapiss.jpg)
 
 Panorama from the gloriously placed Tissi hut, under rhe famous mount Civetta North-West face
-![](/images/mountain/M_Civetta_from_Rif_Tissi.png)
+![](/images/mountain/M_Civetta_from_Rif_Tissi.jpg)
 
 The top of mount Terne, with the Gusela on the background. In winter...
 ![](/images/mountain/M_Terne_winter.JPG)
@@ -42,7 +42,7 @@ The meltwater lake create by the small -- and dying -- Fradusta glacier, on the 
 The low mountain chain that extends from mount Visentin and separates the Belluno valley from Treviso
 ![](/images/mountain/Visentin_chain.JPG)
 
-The Zoldo region from mount Punta, a magnificent belvedere
+The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the King, mount Pelmo, in the center
 ![](/images/mountain/Zoldo_from_M_Punta.jpeg)
 
 A marmot!
