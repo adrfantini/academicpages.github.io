@@ -26,7 +26,7 @@ The Cansiglio forest in a cold winter day
 Lake Sorapiss with its incredible colour, from the via ferrata Vandelli
 ![](/images/mountain/Lake_sorapiss.jpg)
 
-Panorama from the gloriously placed Tissi hut, under rhe famous mount Civetta North-West face
+Panorama from the gloriously placed Tissi hut, under the famous mount Civetta North-West face
 ![](/images/mountain/M_Civetta_from_Rif_Tissi.jpg)
 
 The top of mount Terne, with the Gusela on the background. In winter...
