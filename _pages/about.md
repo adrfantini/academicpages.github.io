@@ -10,10 +10,10 @@ redirect_from:
 
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990.
 
-My educational background is physics, and I obtained a PhD in Earth Science and Fluid Dynamics in 2019 from the University of Trieste, Italy.
-My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and handling of large climatic simulations.
+My academic background is physics, and I obtained a PhD in Earth Science and Fluid Dynamics in 2019 from the University of Trieste, Italy.
+My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations.
 
-My go-to programming and data analsys language is usually R, and I am striving to improve my Python skills. [Here](https://adrfantini.github.io/r-packages/) you can find a redacted list of my favourite R packages which I use daily.
+My go-to programming and data analysis language is usually R, and I am also fluent in Python. [Here](https://adrfantini.github.io/r-packages/) you can find a list of my favourite R packages.
 
 Refer to the pages linked in the header if you want to find more about my education, experience or personal life.
 
