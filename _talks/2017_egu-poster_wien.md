@@ -3,7 +3,7 @@ title: "EGU General Assembly 2017"
 collection: talks
 type: "Conference"
 permalink: /talks/2017_egu-poster_wien
-venue: "International Centre for Theoretical Physics"
+venue: "Austria Center Vienna"
 date: 2017-04-28
 location: "Wien, Austria"
 ---
