@@ -3,7 +3,7 @@ title: "16th European Metereological Society Annual Meeting"
 collection: talks
 type: "Workshop"
 permalink: /talks/2016_ems-presentation_trieste
-venue: "International Centre for Theoretical Physics"
+venue: "Stazione Marittima"
 date: 2016-09-16
 location: "Trieste, Italy"
 ---
